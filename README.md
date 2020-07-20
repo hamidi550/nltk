@@ -8,6 +8,9 @@ The history of chatbots dates back to 1966 when a computer program called ELIZA 
 On similar lines, create a very basic chatbot using Python NLTK library. It is a very simple bot with almost no cognitive skills, but still a good way to get into NLP and get to know chatbot.
 
 IDDL MS : Ingénerie de données et développt logiciel à faculté des science rabat Morocoo
+
 Realisé par : 
+
 Marouane.aitsalah@gmail.com
+
 yassine.maad@gmail.com
