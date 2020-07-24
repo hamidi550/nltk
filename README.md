@@ -10,7 +10,9 @@ On similar lines, create a very basic chatbot using Python NLTK library. It is a
 IDDL MS : Ingénerie de données et développt logiciel à faculté des science rabat Morocoo
 
 Realisé par : 
+- AIT SALAH Marouane
+- MAAD ALLAH Yassine
 
-Marouane.aitsalah@gmail.com
-
-yassine.maad@gmail.com
+nos contact: 
+- Marouane.aitsalah@gmail.com
+- Yassine.maad@gmail.com
